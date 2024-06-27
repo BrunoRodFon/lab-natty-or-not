@@ -1,51 +1,21 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Consequências das IAs generativas ao decorrer dos anos.
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto consiste em um mini podcast entre duas pessoas com o tema "Consequências das IAs generativas ao decorrer dos anos", sendo ele, feito totalmente com o uso de IAs generativas
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+* ChatGPT - Utilizado na criação do roteiro e das falas do podcast.
+* ElevenLabs - Utilizado para transformar os textos e falas do podcast em áudios
+* Descript - Utilizado para inserir videos de fundo e edição do podcast 
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Eu pensei em algo relacionado com o tema em que já estava sendo vistos nas aulas, então primeiramente busquei algum tema em que eu considerasse interessante envolvendo as IAs, onde eu encontrei o tema do projeto "Consequências das IAs generativas ao decorrer dos anos", logo após realizei uma pesquisa para conseguir abordar tópicos deste tema, e através dos exemplos mostrados no video de explicação, decidi que iria fazer um mini podcast.
+Para montar os roteiros e as falas do podcast, eu utilizei o ChatGPT, perguntando a ele estilos de falas que melhor se encaixariam em um podcast com o conteúdo da minha pesquisa.
+Para o processo de áudio, foi utilizado a ferramente "ElevenLabs", onde eu inseri as falas que já estavam definidas e a ferramenta já transformou ela em áudios com vozes pré-programadas.
+Por último, para a geração dos videos de fundo e a edição de todo o podcast foi utilizado a ferramenta "Descript".
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado desse projeto foi um mini podcast em video, que pode ser acessado clicando <a href="https://youtu.be/9q4LvnQ0Bbg">aqui</a>
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+As Inteligências Artificiais Generativas representam uma evolução significativa na tecnologia, capazes de criar conteúdos complexos como textos, imagens e músicas com qualidade comparável à produção humana. Seu uso promete transformar indústrias ao aumentar eficiência e reduzir custos, mas levanta preocupações éticas sobre desinformação, privacidade e segurança. Para maximizar benefícios e minimizar riscos, é crucial desenvolver políticas regulatórias e práticas éticas, envolvendo diversos setores da sociedade no debate sobre seu uso responsável e transparente.
